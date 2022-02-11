@@ -6,7 +6,9 @@
 
 ## The data source used for the topic
 
-https://business.rochestermnchamber.com/list/ql/restaurants-food-beverages-22
+Google's Places: Nearby Search data
+https://maps.googleapis.com/maps/api/place/nearbysearch/output?parameters
+https://developers.google.com/maps/documentation/places/web-service/search-nearby
 
 
 ## The group hypothesis
