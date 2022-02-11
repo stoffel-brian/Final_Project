@@ -18,3 +18,4 @@ Can you leave work and get to date night within 10-15 minutes?
 Utilize Google's Nearby Search API to obtain restaurant data within a given distance and use supervised machine learning to provide a restaurant output based on user preferences.
 
 ## Background
+Background: You have dinner plans with your date and just got asked by your head dr. to be on call. There's a chance you may or may not need to work later in the night so you do not want to cancel your plans since you were looking forward to this date. They have agreed to meet you close to the hospital where you work and now you need to find a restaurant within a 15 minute driving distance just in case you need to drive back.
