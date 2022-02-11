@@ -1,0 +1,10 @@
+##Pulls the Burger joints 1500  meters around St. Mary's Hospitals
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json
+  ?keyword=burger
+  &location=44.0233286%2C-92.4714136
+  &radius=1500
+  &type=restaurant
+  &key=YOUR_API_KEY_HERE
+  
+ 
