@@ -1,0 +1,961 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECt4egfar_s_T9-S-Y5P7QOq1H9HLXbKnaiCfOqvDr-eAfZpCv_gVsiSGC3yZD8WX90QsxToJLdVd4skXmRajFPH19qBx0LoTlu6YWvEidSXl3cf6W-3c5ZUMgnzzSRD4p7LCNGZbTwGXMHFtN4Y9gJNqb7NoWX5ZVtbcUlZv3nyM0KlgJGDlUSx4vOlYhrlQa_SERqn4nmdAW1iWnfMz7bJYRjkLPvZJ8WD3ODK8AwE9dS4-5N-B9Q6-odRhI3pgVDeZwRT9fEVGHRG6ovwk6yaRxBRO_tTrW4pKDHJmOY4Rueb2VeoUuApbDAxfwx6f1o7baIdOa2zjaSZBQ7MFujGnoy2zuJ0OXGaeKC0fg3-AmM3cpo5IVJY4Q7KSRcJTC4o-az4NYBTSJuMzHxTS41J6jc2Qdo8Ke1KgPoo4iOsrphz9gio0rPSuKZJ_Ku6hfG",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0217773,
+               "lng" : -92.48369719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02314842989271,
+                  "lng" : -92.48221382010728
+               },
+               "southwest" : {
+                  "lat" : 44.02044877010727,
+                  "lng" : -92.48491347989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Saints On 2nd",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116916877337955596927\"\u003eNiko Thieling\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBBbzJLa42RNCVANjWq-86c6XN4OkuD4PULsmbQAwGHI0lFmVrbRneCbXw4cec7vRWEvXzb_9nGm5uw6CCDjkYW5uw6_nnpKk1o2orWFFS92U6eVagQATnE0QAzb_xBtQJh98CnqNV9_0tSpcnoAxUC0PzX0SWucVXFHRyHjFz33VJ7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJv1peiA1f94cRPHFhMmGcObU",
+         "plus_code" : {
+            "compound_code" : "2GC8+PG Rochester, Minnesota",
+            "global_code" : "86P92GC8+PG"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJv1peiA1f94cRPHFhMmGcObU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 292,
+         "vicinity" : "161 13th Ave SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0219041,
+               "lng" : -92.48644089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02331037989272,
+                  "lng" : -92.48509602010728
+               },
+               "southwest" : {
+                  "lat" : 44.02061072010728,
+                  "lng" : -92.48779567989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Jersey Jo's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104001581065503171954\"\u003eJersey Jo&#39;s Philly Cheesesteaks and More\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAyFBD2bwhMuivT1RsALaipiz17ZkSsZTanz9s0onojC0xNZlOb4it9yPQgmpSFxXKwxElnmWW0gnwjktYT8T4D7xENo-N60gPk3UgF8SQsOuNp3l0Zv0MIXa31x3ZA-wLQs_-ctX2eaWVSOd5GW3oXwgkVx4T5P1dKI1CVyf9tCZ_b",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQwd0TWZn94cRsvxLCFVMaN8",
+         "plus_code" : {
+            "compound_code" : "2GC7+QC Rochester, Minnesota",
+            "global_code" : "86P92GC7+QC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQwd0TWZn94cRsvxLCFVMaN8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 609,
+         "vicinity" : "187 16th Ave SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.02187,
+               "lng" : -92.4815517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02309532989272,
+                  "lng" : -92.48017652010728
+               },
+               "southwest" : {
+                  "lat" : 44.02039567010728,
+                  "lng" : -92.48287617989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Canadian Honker Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100546159263566898584\"\u003eBradley Barnes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDseVeerxVshvLDoMOylhWIsa2m4_yvprNBEdMlQmyYeSKpDfnqCvPRtFD9XavFwlbyZDApupzuMfdhDb-qwZtFVwmgF_x3EqFuhL7E9RLY4K3xqU2LUiGGBWqCPy--xLFuJfJQ09MBscI28VdI29wQcBVWSLxtIT8RsCjVq4bToejg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ4bf_YA1f94cR2uSo_eCS1gc",
+         "plus_code" : {
+            "compound_code" : "2GC9+P9 Rochester, Minnesota",
+            "global_code" : "86P92GC9+P9"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ4bf_YA1f94cR2uSo_eCS1gc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2551,
+         "vicinity" : "1203 2nd St SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0240337,
+               "lng" : -92.48673479999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02538317989272,
+                  "lng" : -92.48555582010728
+               },
+               "southwest" : {
+                  "lat" : 44.02268352010728,
+                  "lng" : -92.48825547989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Los Jarritos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114714596015283489743\"\u003eJohn Sharpe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC5vB4aDl7ZpZc-1s6PrBVFaiYXtMHcZlKYVE9AUm07PO6c9cqAS6y15dPPt-tdhw1pVBxcrX5bxIn4wiNGfG2UefFC6flOsbptzEUN6omegADZX1EWCKvr7zg8CerGeQuDVrx8z-10X-V2piBupourkO07lyfLj4PzvPQFTU2qw5sR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ551KQuNf94cRHGC64sEZmhE",
+         "plus_code" : {
+            "compound_code" : "2GF7+J8 Rochester, Minnesota",
+            "global_code" : "86P92GF7+J8"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ551KQuNf94cRHGC64sEZmhE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 103,
+         "vicinity" : "36 17th Ave NW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0233762,
+               "lng" : -92.4656162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02478232989272,
+                  "lng" : -92.46426582010727
+               },
+               "southwest" : {
+                  "lat" : 44.02208267010728,
+                  "lng" : -92.46696547989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "QDOBA Mexican Eats",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114072291299303736421\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECag1Mc_Zba0GQ7oOiLd_VAWAZnvZ4hddRIwSSy7n-gziXRJqj488ve5w-tj-wWpkOP3U97Dnzi6c7ohrrMz6GLA4nBz8wq0lfFUG3JOSKxZ5h_jH4ppJzxULL14DiBlUkKHUvq82FZQri8XGbGXM32gzOSfoltdVXug0woBgyzZJ9d",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJn2bmPC9f94cRdjJ-GwxaKvM",
+         "plus_code" : {
+            "compound_code" : "2GFM+9Q Rochester, Minnesota",
+            "global_code" : "86P92GFM+9Q"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJn2bmPC9f94cRdjJ-GwxaKvM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 122,
+         "vicinity" : "180 W Center St W, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0285827,
+               "lng" : -92.47858859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02986312989272,
+                  "lng" : -92.47723932010727
+               },
+               "southwest" : {
+                  "lat" : 44.02716347010728,
+                  "lng" : -92.47993897989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Nupa North",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106563540470756162777\"\u003eNupa Mediterranean Cuisine\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBteaAXLfDi_LHXZPiOaq0SdHuIrTMsYG4L5DIBRZxJOpFY9F5oNt7jL0POAywSNrMLMr7j-dG-hWA7AJ98dEbIphrgN_lPH16yqwDbfggFNoejYE6f0bYn9CftBq9OABDs12ouWXR8aqT668ieJCkCQhPbWd3CSNPBS6LTTEuQMPRw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJczbo43Rf94cRMMFmSQBbQ5I",
+         "plus_code" : {
+            "compound_code" : "2GHC+CH Rochester, Minnesota",
+            "global_code" : "86P92GHC+CH"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJczbo43Rf94cRMMFmSQBbQ5I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1133,
+         "vicinity" : "1035 Civic Center Dr NW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0136723,
+               "lng" : -92.46254669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01501067989272,
+                  "lng" : -92.46125262010726
+               },
+               "southwest" : {
+                  "lat" : 44.01231102010728,
+                  "lng" : -92.46395227989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wingstreet",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ19FQZ2Bf94cRv2gSNAHWCzQ",
+         "plus_code" : {
+            "compound_code" : "2G7P+FX Rochester, Minnesota",
+            "global_code" : "86P92G7P+FX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ19FQZ2Bf94cRv2gSNAHWCzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.021,
+               "lng" : -92.46414000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02236462989272,
+                  "lng" : -92.46296792010727
+               },
+               "southwest" : {
+                  "lat" : 44.01966497010728,
+                  "lng" : -92.46566757989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Newt's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112286510049877477807\"\u003eSusan Curtin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDoKfYCqtT8rz3xEjbjQNliy481jEZ6BPf6czOwscrAJeQWTtOMQHZsB2X4R3_rhnW9cR6vYh98swBRNV2HkrB7YazoEXtX_fm7zIoazmYnZkV4ZuzzH5mtpD32k7v2V7BO4mZUQ0gnHU1smQJW1qLk1mAn_vQKyo19g_SknM4EHqpR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHUNuP2Nf94cRO6lsbwj-rvI",
+         "plus_code" : {
+            "compound_code" : "2GCP+C8 Rochester, Minnesota",
+            "global_code" : "86P92GCP+C8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJHUNuP2Nf94cRO6lsbwj-rvI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1038,
+         "vicinity" : "216 1st Ave SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0219128,
+               "lng" : -92.4855455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02318892989272,
+                  "lng" : -92.48419707010727
+               },
+               "southwest" : {
+                  "lat" : 44.02048927010728,
+                  "lng" : -92.48689672989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108805160857374885776\"\u003eMcDonald&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBvvqM4vZztXxmUfCPcOrAlwWQxdESPdYBGlxopzN_4HLEvyioJ9oUFuVed63sshNdKXxpwZwiszeR0VzPP7aCv8W2C3BnepNqbyYbSUQ4KB9EjKmuDmy1aJPMcP-0tzpNP7kURH24pdro-fUCwgYSa9ohs2ta_MOa2wprqWIhmA5lV",
+               "width" : 1025
+            }
+         ],
+         "place_id" : "ChIJT4z1Aw5f94cRmC3eOSYsWzc",
+         "plus_code" : {
+            "compound_code" : "2GC7+QQ Rochester, Minnesota",
+            "global_code" : "86P92GC7+QQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJT4z1Aw5f94cRmC3eOSYsWzc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1315,
+         "vicinity" : "1505 2nd St SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.012836,
+               "lng" : -92.462166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01422677989272,
+                  "lng" : -92.46067937010729
+               },
+               "southwest" : {
+                  "lat" : 44.01152712010727,
+                  "lng" : -92.46337902989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Snappy Stop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117581295497614685714\"\u003eSnappy Stop\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECS9JIK0VSHoDMVQCPZXhrr0pBxFjOjJf3sCVY6iVeFV8dJVohqXjkvr3FEt_EzAus-OdsYqFIgVcaf2sOUeYXJTH3eot4BLa-LMZ5tbuSIPlVRIR9jnANCPOuaofOg7qoezz1innnYL03SXu2fu9W807efmaxQGmUWBhKca51hOOPK",
+               "width" : 4174
+            }
+         ],
+         "place_id" : "ChIJQeLOcGBf94cRStsIGFnj2ck",
+         "plus_code" : {
+            "compound_code" : "2G7Q+44 Rochester, Minnesota",
+            "global_code" : "86P92G7Q+44"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQeLOcGBf94cRStsIGFnj2ck",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 609,
+         "vicinity" : "37 9th St SE, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0226181,
+               "lng" : -92.47883209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02396792989272,
+                  "lng" : -92.47748227010727
+               },
+               "southwest" : {
+                  "lat" : 44.02126827010728,
+                  "lng" : -92.48018192989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cork & Kale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115629134477365506874\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDS-IdVaZH4SLbmerwK0I7CwzOBB5VpR3V-sUCL7iw-f7kHMx6FPfUV1yP5DXSe5c5J5lrvqBv_c6THe4bZcdd2b6h42JmxJQRNEUoRmWh_U-OnokCFJv1XSu2nJqJEQZ-V6Lf3Zj-Gk9dAyyxlPQD7YsqvoeilaLWpGu4yZP4EiBEc",
+               "width" : 1257
+            }
+         ],
+         "place_id" : "ChIJp9hMichf94cR0NTvrYwDK6Y",
+         "plus_code" : {
+            "compound_code" : "2GFC+2F Rochester, Minnesota",
+            "global_code" : "86P92GFC+2F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJp9hMichf94cR0NTvrYwDK6Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "101 11th Ave SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0230261,
+               "lng" : -92.4654759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02429842989272,
+                  "lng" : -92.46432942010728
+               },
+               "southwest" : {
+                  "lat" : 44.02159877010727,
+                  "lng" : -92.46702907989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Grand Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116911646273761815665\"\u003eEmily Stone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBd8TLsVONC-T7fUrowvGOuyMsKE8BU7Mng570AYLNv_0hs-i-SZG34yECcHfslVv5reBOWaFN1hVX3obQFUSfZLSZCRPFqxSUJi058rQYD2zKamufnDh9hWNJhwfE74FYI24bUtkgWSjj1lxVGf6ZLK7ztmR1SCKci9bmOu0u5sYxu",
+               "width" : 5456
+            }
+         ],
+         "place_id" : "ChIJ7WFOZntf94cR_bK3cd7YmP4",
+         "plus_code" : {
+            "compound_code" : "2GFM+6R Rochester, Minnesota",
+            "global_code" : "86P92GFM+6R"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ7WFOZntf94cR_bK3cd7YmP4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93,
+         "vicinity" : "20 2nd Ave SW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0225036,
+               "lng" : -92.46370659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02392197989271,
+                  "lng" : -92.46241624999998
+               },
+               "southwest" : {
+                  "lat" : 44.02122232010727,
+                  "lng" : -92.46520124999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chester's Kitchen & Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2986,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107830206978411364861\"\u003eChester&#39;s Kitchen &amp; Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAwv3QD8ta3zZbmkdJFUKFurHXMrpFhFWB3VL2mAYwmnptlvqGa4ckL5fN97b7mPnCURS3m0X_rtkkC5ttwAovIg5Zd1hfxkgGqkfHoerNgVEW4aOciHskGVqo_y0wiWi1MC1GJYeXQOeIQfenRYeEtA47R_rdQ6Jw9QZyHWo577rOR",
+               "width" : 3729
+            }
+         ],
+         "place_id" : "ChIJi-0g1nxf94cRCY5hpn6YerA",
+         "plus_code" : {
+            "compound_code" : "2GFP+2G Rochester, Minnesota",
+            "global_code" : "86P92GFP+2G"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJi-0g1nxf94cRCY5hpn6YerA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1337,
+         "vicinity" : "Shops At University Square, 111 Broadway Ave S #108, Rochester"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0136009,
+               "lng" : -92.46243219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01497252989272,
+                  "lng" : -92.46118367010729
+               },
+               "southwest" : {
+                  "lat" : 44.01227287010727,
+                  "lng" : -92.46388332989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Hunan",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117784135305952916179\"\u003eJorge M\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBhFqXiHGxuZeAdV364QFM4ZbYV0iF_Y0fum3RngS6Lh0ROsDZco6cAcjemgBbTaRJKKN_qln5KsKsTfVbrsry13E1mLtlvtHThWhqFevVUaI9Bdl_WUF2FvjqQLGMu0t0YwYNY3c_9setbzIqNNKExgh-m4ttn37TkI8EUCq9sFGzB",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJBVdxYmBf94cRhyCGnJiHLXQ",
+         "plus_code" : {
+            "compound_code" : "2G7Q+C2 Rochester, Minnesota",
+            "global_code" : "86P92G7Q+C2"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJBVdxYmBf94cRhyCGnJiHLXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 303,
+         "vicinity" : "844 Broadway Ave S, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0061265,
+               "lng" : -92.4642429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.00743872989272,
+                  "lng" : -92.46279982010726
+               },
+               "southwest" : {
+                  "lat" : 44.00473907010728,
+                  "lng" : -92.46549947989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chipotle Mexican Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104799262651052434055\"\u003eAaron Kite\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDlMI_uB2Nqkbe7IcYRszZc6MHhQYQzla9l6iD7-OwZt4CjWctdOrglC_v88UDICThUpFv40VloSzYiwSEudz5NrDmNpCFY6hvqwVTgezyBwo8ZDzvCjW6iueLwpZH28sS1j21YDPg_wweuB4QyhHI2vRVXAjs5jMwLq3NfoLt6xOlh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFdZ3Gllf94cR3qvF5eaYUgs",
+         "plus_code" : {
+            "compound_code" : "2G4P+F8 Rochester, Minnesota",
+            "global_code" : "86P92G4P+F8"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJFdZ3Gllf94cR3qvF5eaYUgs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1145,
+         "vicinity" : "1201 Broadway Ave S STE 60, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.00630109999999,
+               "lng" : -92.4647202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.00769562989272,
+                  "lng" : -92.46343102010729
+               },
+               "southwest" : {
+                  "lat" : 44.00499597010727,
+                  "lng" : -92.46613067989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chick-fil-A",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 6031,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107687455077022939797\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB3oM67DyqPd-8oveDv60yfuyZOQ0af-jKqdbXfLlNqarwdGnRMmdxHl9H1ySh2SIq1fwRpV6fm5906GBonfoLYk_-STNHVR6WTIF5OAjfkkcnaVG-3FrDbk2er7zW78VJf0o2xiwimzTHdvDwPSOyBJ97C2gIP7cmxFSqT7-Z7MjA2",
+               "width" : 8441
+            }
+         ],
+         "place_id" : "ChIJG19MXVlf94cRztcHKSOgeto",
+         "plus_code" : {
+            "compound_code" : "2G4P+G4 Rochester, Minnesota",
+            "global_code" : "86P92G4P+G4"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJG19MXVlf94cRztcHKSOgeto",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1861,
+         "vicinity" : "1201 Broadway Ave S STE 100, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0057611,
+               "lng" : -92.46848609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.00716032989273,
+                  "lng" : -92.46708992010728
+               },
+               "southwest" : {
+                  "lat" : 44.00446067010728,
+                  "lng" : -92.46978957989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Nupa South",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 424,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113190024686450145406\"\u003eNupa South\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOft7E2dVZ5BaIhc2o82rPeYoOfdRTsIvYlzm6MU1WUA2ipXWNIEAXVbGM5NPcodD6BYBpz99fG-BNTNEfHo2qRpoDkQKiNQ-QvMxOvw5maG9VVBXW0PFvcnJrQZSurcnh8yuUXmSelt0KP0w34prc_EBM0DHPhbsZJeyJVwkVb7Fr",
+               "width" : 755
+            }
+         ],
+         "place_id" : "ChIJseRPG1tf94cRXIrtsiCWnK0",
+         "plus_code" : {
+            "compound_code" : "2G4J+8J Rochester, Minnesota",
+            "global_code" : "86P92G4J+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJseRPG1tf94cRXIrtsiCWnK0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 626,
+         "vicinity" : "412 Crossroads Dr, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0282168,
+               "lng" : -92.4819768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02973767989272,
+                  "lng" : -92.48046817010727
+               },
+               "southwest" : {
+                  "lat" : 44.02703802010728,
+                  "lng" : -92.48316782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Taco Lab",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107935018649447551576\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBpRZXIRmEns6YbvHYpmW1b59wUGnsOXzal8_T231qy1zhEvL-hIDoTCVb8edZniPN-unNiQ4062p2fEgLwyOt_8__mEB_qw_MYax_wHGV2bren4XH6lJHqW4ZkTLYrYzOBF3tnySTferSelbhHBnAsI8Irfi5h56la9G-YSVT8JSON",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVVWVGgtf94cR8QEoAbQG7rQ",
+         "plus_code" : {
+            "compound_code" : "2GH9+76 Rochester, Minnesota",
+            "global_code" : "86P92GH9+76"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJVVWVGgtf94cR8QEoAbQG7rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70,
+         "vicinity" : "1310 5th Pl NW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0264181,
+               "lng" : -92.48671780000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02784222989272,
+                  "lng" : -92.48539147010727
+               },
+               "southwest" : {
+                  "lat" : 44.02514257010728,
+                  "lng" : -92.48809112989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Denny's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104902193182007079504\"\u003eAli Mohd\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAVszBlB-k49NzvOLfktOPmayJ6oHAJQm16JP8a0XbWeThKXiFJLkdkqbpujf09uRXjdQ0wZKCBpPwhs13BgKniDUTy5agYNTPD5yTK6sgphxaDqRK9Ym3yiakmCFGy81fnhX3CHaV4Ff0l_6qZul9uZGkVxI4EdZw79u16c1Edx398",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJq_j6KQlf94cRy9lTvro12Ls",
+         "plus_code" : {
+            "compound_code" : "2GG7+H8 Rochester, Minnesota",
+            "global_code" : "86P92GG7+H8"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJq_j6KQlf94cRy9lTvro12Ls",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1231,
+         "vicinity" : "286 17th Ave NW, Rochester"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221852,
+               "lng" : -92.4838163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02349442989271,
+                  "lng" : -92.48227922010729
+               },
+               "southwest" : {
+                  "lat" : 44.02079477010727,
+                  "lng" : -92.48497887989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104371177773031735867\"\u003eTimothy Flynn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAfnslQbBLnfDyD-a-49uvKcmvl9P7Q7OwFpKUWBadB6jELvbIp3ZMqe29LZqX2wUPEIlL1HtbA64IEtxO8xdS3cHtKNlL5PzOYAl1YfMmmAN-Pc9NZQBvsjwjfhCx_DNigSxfArHS371DiqWQbaT1KXRSvneL9lxjEALaq2bsiYb_x",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpSdeiA1f94cRO3xyAvMn8dc",
+         "plus_code" : {
+            "compound_code" : "2GC8+VF Rochester, Minnesota",
+            "global_code" : "86P92GC8+VF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpSdeiA1f94cRO3xyAvMn8dc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "161 13th Ave SW, Rochester"
+      }
+   ],
+   "status" : "OK"
+}
