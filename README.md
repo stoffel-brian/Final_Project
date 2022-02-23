@@ -30,3 +30,7 @@ There are 18 restaurants in our dataset.
 
 There is an overall average rating of 4.239, a minimum rating of 3.1 and a maximum rating of 4.6.
 
+![summary image](https://github.com/stoffel-brian/Final_Project/blob/main/Screenshot%20of%20Data%20Night%20Summary.PNG)
+
+Below is a picture of the Tableau dashboard.
+
