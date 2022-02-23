@@ -26,7 +26,7 @@ We plan to store our data in a json format.
 We plan to visualize our data using Tableau.
 
 ## Key Statistics
-There are 18 restaurants in our dataset.
+There are 18 restaurants within 1 mile of walking distance from Saint Mary's Hospital in Rochester, Minnesota.
 
 There is an overall average rating of 4.239, a minimum rating of 3.1 and a maximum rating of 4.6.
 
@@ -34,3 +34,8 @@ There is an overall average rating of 4.239, a minimum rating of 3.1 and a maxim
 
 Below is a picture of the Tableau dashboard.
 
+The blue bar graph indicates the ratings for each restaurant.  The colored bubbles are sized in relation to the price point of each restaurant. (Example: the bigger the bubble the more expensive the restaurant.  Bleu Duck is the most expensive restaurant.)
+
+Cameo and Bleu Duck both have an overall rating of 4.6 which are the two highest rated restaurants within 1 mile walking distance to SMH.
+
+![Tableau dashboard](https://github.com/stoffel-brian/Final_Project/blob/main/Screenshot%20of%20Data%20Night%20Dashboard.PNG)
