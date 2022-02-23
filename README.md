@@ -1,6 +1,6 @@
 # Final_Project
 Group Name: Data Night
-Brian Stoffel, Jasmin Pattschull, Tracy Atienza
+Brian Stoffel, Jasmin Pattschull, Tracy Atienza, Christina Galley
 ## Group topic
 Date Night in Rochester, Minnesota
 
