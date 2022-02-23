@@ -30,7 +30,7 @@ There are 18 restaurants within 1 mile of walking distance from Saint Mary's Hos
 
 There is an overall average rating of 4.239, a minimum rating of 3.1 and a maximum rating of 4.6.
 
-![summary image](https://github.com/stoffel-brian/Final_Project/blob/main/Screenshot%20of%20Data%20Night%20Summary.PNG)
+![summary image](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/Screenshot%20of%20Data%20Night%20Summary.PNG)
 
 Below is a picture of the Tableau dashboard.
 
@@ -38,4 +38,4 @@ The blue bar graph indicates the ratings for each restaurant.  The colored bubbl
 
 Cameo and Bleu Duck both have an overall rating of 4.6 which are the two highest rated restaurants within 1 mile walking distance to SMH.
 
-![Tableau dashboard](https://github.com/stoffel-brian/Final_Project/blob/main/Screenshot%20of%20Data%20Night%20Dashboard.PNG)
+![Tableau dashboard](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/Screenshot%20of%20Data%20Night%20Dashboard.PNG)
