@@ -40,6 +40,6 @@ Below is a picture of the Tableau dashboard.
 
 The blue bar graph indicates the ratings for each restaurant.  The colored bubbles are sized in relation to the price point of each restaurant. (Example: the bigger the bubble the more expensive the restaurant.  Bleu Duck is the most expensive restaurant.)
 
-Cameo and Bleu Duck both have an overall rating of 4.6 which are the two highest rated restaurants within 1 mile walking distance to SMH.
+Cameo and Bleu Duck both have an overall rating of 4.6 which are the two highest rated restaurants within a reasonable walking distance to SMH.
 
 ![Tableau dashboard](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/Screenshot%20of%20Data%20Night%20Dashboard.PNG)
