@@ -21,7 +21,7 @@ Can you leave work (St. Mary's Hospital) and get to date night within 15-22 minu
 ## Group's thought on what approach they may want to use for analysis (i.e. what ML technique we may want to use to investigate the hypothesis)
 Utilize Google's Nearby Search API to obtain restaurant data within a given distance and stored the data in a json format: Google Places API Burgers.json
 
-![API](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/calling_google_API).png
+![API](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/calling_google_API.png).png
 
 We used Python to extract and transform the data by filtering out the columns.  
 
