@@ -1,6 +1,6 @@
 # Final_Project
 Group Name: Data Night
-Brian Stoffel, Jasmin Pattschull, Tracy Atienza, Christina Galley
+Brian Stoffel, Jasmin Pattschull, Tracy Atienza, Christina Galley, Niu Rabiu
 ## Group topic
 Date Night in Rochester, Minnesota
 
@@ -28,7 +28,7 @@ We stored our data in a json format. The file name is: Google Places API Burgers
 We visualized our data using Tableau.
 
 ## Key Statistics
-There are 18 restaurants within 1 mile of walking distance from Saint Mary's Hospital in Rochester, Minnesota.
+There are 18 restaurants within a reasonable walking distance from Saint Mary's Hospital in Rochester, Minnesota.
 
 There is an overall average rating of 4.239, a minimum rating of 3.1 and a maximum rating of 4.6.
 
