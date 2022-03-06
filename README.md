@@ -27,13 +27,13 @@ We used Python to extract and transform the data by filtering out the columns.
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/python_code.png)
 
+Once we put the data in a pandas dataframe, we noticed some duplicated rows. To remove the duplicates, we used the `df.drop_duplicates` function.
+
+![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/remove_duplicates_python.png)
+
 Then, we calculated the distances (in miles) between St. Mary's and each restaurant location using the python math module imported with the other dependencies at the top of the code. The radius in the distance function was set to the radius of the earth in miles. We set the coordinates for St. Mary's as the source and used a for loop to iterate through the longitudes and latitudes of each restaurant.
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/distance_function_python.png)
-
-Once we put the distance data in a pandas dataframe, we noticed some duplicated rows. To remove the duplicates, we used the `df.drop_duplicates` function.
-
-![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/remove_duplicates_python.png)
 
 We used Tableau to visualize the Key Statistics provided below.
 
