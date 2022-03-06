@@ -35,6 +35,10 @@ Then, we calculated the distances (in miles) between St. Mary's and each restaur
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/distance_function_python.png)
 
+We merged the new didtance in miles dataframe with the original cleaned dataframe and exported it as a json file.
+
+![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/merge_data.png)
+
 We used Tableau to visualize the Key Statistics provided below.
 
 ## Key Statistics
