@@ -35,11 +35,11 @@ Then, we calculated the distances (in miles) between St. Mary's and each restaur
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/distance_function_python.png)
 
-The new didtance in miles dataframe was merged with the original cleaned dataframe and exported it as a json file.
+The new distance in miles dataframe was merged with the original cleaned dataframe and exported it as a json file.
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/merge_export_data.png)
 
-A higharchial cluster was used to find the next nearest restaurant to navigate to if you walk to one that is closed, or has a long wait, and need to walk to a different one.
+Hierarchical clustering with sklearn was used to find the next nearest restaurant to navigate to if you walk to one that is closed, or has a long wait, and need to walk to a different one.
 
 -This dendogram helped determine how many clusters to use.
 
