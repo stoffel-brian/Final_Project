@@ -18,8 +18,8 @@ https://developers.google.com/maps/documentation/places/web-service/search-nearb
 ## Group Hypothesis
 Can you leave work (St. Mary's Hospital) and get to date night within 15-22 minutes (which is the average time it takes to walk 1 mile according to nike.com, women's health magazine, and various other sources)?
 
-## Group's thought on what approach they may want to use for analysis (i.e. what ML technique we may want to use to investigate the hypothesis)
-Utilize Google's Nearby Search API to obtain restaurant data within a given distance and stored the data in a json format: Google Places API Burgers.json
+## Analysis
+In our analysis, we utilize Google's Nearby Search API to obtain restaurant data within a given distance and stored the data in a json format: Google Places API Burgers.json
 
 ![API](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/calling_google_API.png)
 
@@ -35,13 +35,13 @@ Then, we calculated the distances (in miles) between St. Mary's and each restaur
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/distance_function_python.png)
 
-We merged the new didtance in miles dataframe with the original cleaned dataframe and exported it as a json file.
+The new didtance in miles dataframe was merged with the original cleaned dataframe and exported it as a json file.
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/merge_export_data.png)
 
 A higharchial cluster was used to find the next nearest restaurant to navigate to if you walk to one that is closed, or has a long wait, and need to walk to a different one.
 
--This dendogram was used to help determine how many clusters to use.
+-This dendogram helped determine how many clusters to use.
 
 ![python code](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/dendogram.png)
 
