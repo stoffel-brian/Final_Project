@@ -64,6 +64,7 @@ There is an overall average rating of 4.239, a minimum rating of 3.1 and a maxim
 
 ![summary image](https://github.com/stoffel-brian/Final_Project/blob/main/Resources/Screenshot%20of%20Data%20Night%20Summary.PNG)
 
+
 Below is a picture of the Tableau dashboard.
 
 The blue bar graph indicates the ratings for each restaurant.  The colored bubbles are sized in relation to the price point of each restaurant. (Example: the bigger the bubble the more expensive the restaurant.  Bleu Duck is the most expensive restaurant.)
